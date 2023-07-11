@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Комментарии на сайте 	</title>
-	<atom:link href="http://resumegolubev/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://resumegolubev/</link>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Tue, 11 Jul 2023 11:55:54 +0000</lastBuildDate>
 	<sy:updatePeriod>
